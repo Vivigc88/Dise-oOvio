@@ -158,12 +158,13 @@ p{
 /*CLASES*/
 
 .ancho_menu_home{width: 900px;}
-.ancho_menu_paginas{width: 980px;}
+.ancho_menu_paginas{width: 1000px;}
 
 .menu:link{color: blue; text-decoration: none;}
 .menu:visited{color: blue; text-decoration: none;}
 .menu:hover{color: blue; text-decoration: none; text-shadow: 0 0 13px white;}
 .menu:active{color: blue; text-decoration: none;}
+
 
 /*SEUDO CLASES*/
 
